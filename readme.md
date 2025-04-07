@@ -16,7 +16,7 @@ This Python script downloads Cisco Common Security Advisory Framework (CSAF) fil
     pip install requests
     ```
 
-3.  Create a `credentials.json` file in the same directory as the script. This file should contain your Cisco API client ID and secret:
+3.  Create a `credentials.json` file in the same directory as the script. This file should contain your Cisco API client ID and secret: https://developer.cisco.com/docs/psirt/introduction/
 
     ```json
     {
